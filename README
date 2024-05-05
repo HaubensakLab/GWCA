@@ -1,3 +1,8 @@
+# Info
+Code for the accomping paper:
+https://www.sciencedirect.com/science/article/pii/S1053811917307127?via%3Dihub#appsec1
+
+
 Copyright (C) 2016 VRVis.
 All rights reserved.
 Contact: VRVis Forschungs-GmbH (office@vrvis.at)
@@ -16,6 +21,7 @@ modification, are permitted provided that the following conditions are met:
    names of its contributors may be used to endorse or promote products
    derived from this software without specific prior written permission.
 
+# Usage
 1) You need the NRRD Format File Reader from 
 http://www.mathworks.com/matlabcentral/fileexchange/34653-nrrd-format-file-reader/content/nrrdread.m
 copy this file into this folder.
